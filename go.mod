@@ -30,7 +30,7 @@ require (
 	github.com/rhysd/actionlint v1.6.8
 	github.com/sabhiram/go-gitignore v0.0.0-20201211210132-54b8a0bf510f
 	github.com/sergi/go-diff v1.2.0 // indirect
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.9.0
 	github.com/spf13/cobra v1.2.1
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.7.0
